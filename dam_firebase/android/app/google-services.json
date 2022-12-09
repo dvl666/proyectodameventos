@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642327577777",
+    "project_id": "dam01-gaspao666",
+    "storage_bucket": "dam01-gaspao666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642327577777:android:003fc4ee92b4fd6be64e90",
+        "android_client_info": {
+          "package_name": "com.usm.dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642327577777-9vc55j3nadaftd42rqrhb339s2luhgot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWG2a55fiTV43o0nIGDxNKHG3ljdy8p3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642327577777-9vc55j3nadaftd42rqrhb339s2luhgot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
